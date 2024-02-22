@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Akmalbek",
+      "email": "akmalbek@gmail.com",
+      "password": "1234",
+      "age": "24",
+      "status": "block"
+    },
+    {
+      "name": "Azamat",
+      "email": "azamat@gmail.com",
+      "password": "12312324a",
+      "id": "a.u4w91evlo",
+      "status": "active"
+    },
+    {
+      "name": "Javokhirbek",
+      "email": "javohirbek.madaminjonov99@gmail.com",
+      "password": "123456",
+      "id": "2.4su5c0s1vf",
+      "status": "block"
+    },
+    {
+      "name": "Eagle",
+      "email": "eagle@gmail.com",
+      "password": "123456a",
+      "id": "g.1o1cajg1i",
+      "status": "active"
+    },
+    {
+      "name": "Bobur",
+      "email": "bobur7@gmail.com",
+      "password": "1234567",
+      "id": "7.rlmzwznp5a",
+      "status": "block"
+    },
+    {
+      "name": "Azizbek",
+      "email": "azizbek@gmail.com",
+      "password": "123456a",
+      "id": "9.rnfl4dzbvc",
+      "status": "active"
+    }
+  ]
+}
